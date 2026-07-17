@@ -1,5 +1,7 @@
 # ZapplyX - YC Founder Directory & Personalized Outreach Platform
 
+Live Site: [https://www.zapplyx.com](https://www.zapplyx.com)
+
 This repository contains public interface definitions, data schemas, and high-level architectural skeletons for ZapplyX. 
 
 ## 🔒 Proprietary Software & License Notice
